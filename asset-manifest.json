@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/vladn255/Testing-area/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/vladn255/Testing-area/static/js/main.74688ccc.chunk.js",
-    "main.js.map": "/vladn255/Testing-area/static/js/main.74688ccc.chunk.js.map",
-    "runtime-main.js": "/vladn255/Testing-area/static/js/runtime-main.23746a91.js",
-    "runtime-main.js.map": "/vladn255/Testing-area/static/js/runtime-main.23746a91.js.map",
-    "static/js/2.11d918a7.chunk.js": "/vladn255/Testing-area/static/js/2.11d918a7.chunk.js",
-    "static/js/2.11d918a7.chunk.js.map": "/vladn255/Testing-area/static/js/2.11d918a7.chunk.js.map",
-    "static/js/3.c7fcf709.chunk.js": "/vladn255/Testing-area/static/js/3.c7fcf709.chunk.js",
-    "static/js/3.c7fcf709.chunk.js.map": "/vladn255/Testing-area/static/js/3.c7fcf709.chunk.js.map",
-    "index.html": "/vladn255/Testing-area/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/vladn255/Testing-area/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.11d918a7.chunk.js.LICENSE.txt": "/vladn255/Testing-area/static/js/2.11d918a7.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/vladn255/Testing-area/static/media/logo.6ce24c58.svg"
+    "main.css": "/vladn255/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/vladn255/static/js/main.74688ccc.chunk.js",
+    "main.js.map": "/vladn255/static/js/main.74688ccc.chunk.js.map",
+    "runtime-main.js": "/vladn255/static/js/runtime-main.d9d8d206.js",
+    "runtime-main.js.map": "/vladn255/static/js/runtime-main.d9d8d206.js.map",
+    "static/js/2.11d918a7.chunk.js": "/vladn255/static/js/2.11d918a7.chunk.js",
+    "static/js/2.11d918a7.chunk.js.map": "/vladn255/static/js/2.11d918a7.chunk.js.map",
+    "static/js/3.c7fcf709.chunk.js": "/vladn255/static/js/3.c7fcf709.chunk.js",
+    "static/js/3.c7fcf709.chunk.js.map": "/vladn255/static/js/3.c7fcf709.chunk.js.map",
+    "index.html": "/vladn255/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/vladn255/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.11d918a7.chunk.js.LICENSE.txt": "/vladn255/static/js/2.11d918a7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vladn255/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.23746a91.js",
+    "static/js/runtime-main.d9d8d206.js",
     "static/js/2.11d918a7.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.74688ccc.chunk.js"
